@@ -1,11 +1,10 @@
 <div align="center">
-<h1>&nbsp;&nbsp;DeepCamera </h1>
+<h1>&nbsp;&nbsp;Wanted: DeepCamera Using Gemini Pro Multimodal </h1>
   <p>
 		<b>
-        <h3> Empower camera with SOTA AI <br>ML pipeline for AI camera/CCTV <br>Easy to use Edge AI development</h3>
+        <h3> This Fork will someday attempt to construct a Python/.js -only version of the original Camera function-enhancement project, for use with Google's Gemini Pro LLMs (Large Multimodal Models) via API key or Google Cloud.  This author is a non-coder dependent upon Gemini Pro (1.5) to explain, interpret, and rewrite/adapt the existing code into a Python script that will run on Windows 10 CMD Console or on an edge device, for use as a home-security monitor, and driveway-watchguard for home or business). If you can help bulid the python fork, please join this fork as collaborator: Empower camera with SOTA AI <br>ML pipeline for AI camera/CCTV <br>Easy to use Edge AI development</h3>
         </b>
 	</p>
-
 <p>
     <a href="https://join.slack.com/t/sharpai/shared_invite/zt-1nt1g0dkg-navTKx6REgeq5L3eoC1Pqg">
         <img src="https://img.shields.io/badge/slack-purple?style=for-the-badge&logo=slack" height=25>
